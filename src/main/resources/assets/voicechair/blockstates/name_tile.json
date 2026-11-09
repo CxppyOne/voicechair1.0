@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "voicechair:block/name_tile"
+    }
+  }
+}
